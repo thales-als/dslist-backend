@@ -2,7 +2,6 @@ package com.thaleslima.dslist.controllers;
 
 import com.thaleslima.dslist.dto.GameDTO;
 import com.thaleslima.dslist.dto.GameMinDTO;
-import com.thaleslima.dslist.entities.Game;
 import com.thaleslima.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
